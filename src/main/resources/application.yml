@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://ramjeetmahto77:Ram123@leanmongo.dhvmlo4.mongodb.net/?retryWrites=true&w=majority
+      database: productdb
